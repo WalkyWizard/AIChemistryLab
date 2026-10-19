@@ -1,0 +1,6 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.idea/
+chemistry_results.csv
+property_comparison.png
